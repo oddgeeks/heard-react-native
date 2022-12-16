@@ -1,8 +1,4 @@
-# Heard - An enterprise React Native Social Messaging App
-
-### Built with AWS AppSync & AWS Amplify
-
-![](https://imgur.com/Kqmdwdy.jpg)
+# Heard - React Native App
 
 ### Todo
 
